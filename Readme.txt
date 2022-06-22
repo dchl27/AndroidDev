@@ -2,7 +2,7 @@ Versions:
 
   Java Client 11.08.000.128
   JRE 1.8.0 Update 222-b10 X64 OpenJDK
-  ELO OCR Service 10.17.101.003
+  ELO OCR Service 10.17.101.0032212
   ELO Macros Java Client 11.00.014
   PDF Printer (GS) 2.0.0.42
   PDF Printer PrintArchive (GS) 2.0.0.42
